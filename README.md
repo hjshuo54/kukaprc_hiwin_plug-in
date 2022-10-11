@@ -21,6 +21,7 @@ Create Hrb is a Grasshopper plug-in that translates the KUKA-robot-language file
 
 
 ****
-For instructions on installing Grasshopper Add-Ons, please see: https://www.food4rhino.com/en/faq#users-install-grasshopper-plugin
+For instructions on installing Grasshopper Add-Ons, please see:
+https://www.food4rhino.com/en/faq#users-install-grasshopper-plugin
 
 ![Create Hrb](/img_file/inter.png "Create Hrb")
